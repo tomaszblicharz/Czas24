@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tomasz\\source\\repos\\Czas24\\Czas24\\Czas24.csproj": {}
+    "D:\\wsei\\C-Molenda\\Czas24\\Czas24\\Czas24.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tomasz\\source\\repos\\Czas24\\Czas24\\Czas24.csproj": {
+    "D:\\wsei\\C-Molenda\\Czas24\\Czas24\\Czas24.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tomasz\\source\\repos\\Czas24\\Czas24\\Czas24.csproj",
+        "projectUniqueName": "D:\\wsei\\C-Molenda\\Czas24\\Czas24\\Czas24.csproj",
         "projectName": "Czas24",
-        "projectPath": "C:\\Users\\Tomasz\\source\\repos\\Czas24\\Czas24\\Czas24.csproj",
+        "projectPath": "D:\\wsei\\C-Molenda\\Czas24\\Czas24\\Czas24.csproj",
         "packagesPath": "C:\\Users\\Tomasz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tomasz\\source\\repos\\Czas24\\Czas24\\obj\\",
+        "outputPath": "D:\\wsei\\C-Molenda\\Czas24\\Czas24\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
