@@ -1,0 +1,11 @@
+C:\Users\Tomasz\source\repos\Czas24\Czas24\bin\Debug\netcoreapp2.1\Czas24.deps.json
+C:\Users\Tomasz\source\repos\Czas24\Czas24\bin\Debug\netcoreapp2.1\Czas24.runtimeconfig.json
+C:\Users\Tomasz\source\repos\Czas24\Czas24\bin\Debug\netcoreapp2.1\Czas24.runtimeconfig.dev.json
+C:\Users\Tomasz\source\repos\Czas24\Czas24\bin\Debug\netcoreapp2.1\Czas24.dll
+C:\Users\Tomasz\source\repos\Czas24\Czas24\bin\Debug\netcoreapp2.1\Czas24.pdb
+C:\Users\Tomasz\source\repos\Czas24\Czas24\obj\Debug\netcoreapp2.1\Czas24.csprojAssemblyReference.cache
+C:\Users\Tomasz\source\repos\Czas24\Czas24\obj\Debug\netcoreapp2.1\Czas24.csproj.CoreCompileInputs.cache
+C:\Users\Tomasz\source\repos\Czas24\Czas24\obj\Debug\netcoreapp2.1\Czas24.AssemblyInfoInputs.cache
+C:\Users\Tomasz\source\repos\Czas24\Czas24\obj\Debug\netcoreapp2.1\Czas24.AssemblyInfo.cs
+C:\Users\Tomasz\source\repos\Czas24\Czas24\obj\Debug\netcoreapp2.1\Czas24.dll
+C:\Users\Tomasz\source\repos\Czas24\Czas24\obj\Debug\netcoreapp2.1\Czas24.pdb
